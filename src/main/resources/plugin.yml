@@ -1,0 +1,5 @@
+name: WeaponMastery
+version: 1.0.0
+main: dev.weaponmastery.WeaponMasteryPlugin
+api-version: '1.21'
+description: Per-weapon kill tracking with 4 tiers of stat bonuses.
